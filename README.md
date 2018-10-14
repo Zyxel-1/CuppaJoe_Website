@@ -3,7 +3,7 @@
 
 
 
-[](https://i.imgur.com/1Vyu15E.gif)
+[](sample.gif)
 
 ## Get Started
 
