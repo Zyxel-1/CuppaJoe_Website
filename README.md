@@ -1,9 +1,7 @@
 # A cuppajoe
 > A commercial coffee website for community college web development class (CS-12). 
 
-
-
-[](sample.gif)
+![](https://i.imgur.com/uqUeU7E.gif)
 
 ## Get Started
 
